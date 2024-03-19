@@ -11,6 +11,10 @@ function printReport(pages){
     console.log("===============")
     console.log("END REPORT")
     console.log("===============")
+    console.log("MAKE SURE TO UPDATE CSS HREFS FOR VIEWING LOCALLY")
+    console.log("===============")
+    console.log("IMAGE URLs ARE SAVE INSIDE A FILE. FILE PATHS FOR LINKS AND DOWNLOADED PHOTOS WIP.")
+    console.log("===============")
 }
 
 
